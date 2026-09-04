@@ -1,7 +1,7 @@
 import requests
 
 
-API_BASE_URL = "http://127.0.0.1:8000"
+API_BASE_URL = "https://marketpulse-backend-pumf.onrender.com"
 
 
 def _request(method, endpoint, **kwargs):
