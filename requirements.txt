@@ -1,0 +1,14 @@
+streamlit
+fastapi
+uvicorn
+yfinance
+pandas
+numpy
+plotly
+requests
+python-dotenv
+sqlalchemy
+psycopg2-binary
+pydantic
+pydantic-settings
+google-genai
